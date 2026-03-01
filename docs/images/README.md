@@ -13,5 +13,3 @@ Put your README images here and keep these filenames:
 - `contact-wechat.png`
 - `story-engine-1.png`
 - `story-engine-2.png`
-- `content-zone-1.png`
-- `content-zone-2.png`
