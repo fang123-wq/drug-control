@@ -1,7 +1,7 @@
 ﻿<p align="center">
   <img src="docs/images/logo.png" width="120" alt="禁毒开源 Logo" />
 </p>
-<h1 align="center">禁毒开源 Drug Education Mini Program</h1>
+<h1 align="center">禁毒开源 Zero Tolerance</h1>
 
 <p align="center">
   <strong>禁毒教育小程序 · 云展馆导览 · 互动体验 · 答题积分 · 静态可运行</strong>
