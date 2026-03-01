@@ -15,3 +15,5 @@ Put your README images here and keep these filenames:
 - `story-engine-2.png`
 - `content-zone-1.png`
 - `content-zone-2.png`
+- `core-experience-1.png`
+- `core-experience-2.png`

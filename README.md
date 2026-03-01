@@ -47,6 +47,13 @@
 - 互动式学习流程（参观、问答、签名、积分反馈）
 - 静态数据驱动，可离线演示主流程
 
+<table>
+  <tr>
+    <td><img src="docs/images/core-experience-1.png" width="420" alt="核心体验界面 1" /></td>
+    <td><img src="docs/images/core-experience-2.png" width="420" alt="核心体验界面 2" /></td>
+  </tr>
+</table>
+
 ### 沉浸式故事引擎
 - 青少年、家庭、职场、英雄等多条故事线
 - 选择分支与不同结局反馈
