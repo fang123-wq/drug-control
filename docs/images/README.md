@@ -11,3 +11,5 @@ Put your README images here and keep these filenames:
 - `feature-points-gift.png`
 - `contact-group.png`
 - `contact-wechat.png`
+- `story-engine-1.png`
+- `story-engine-2.png`

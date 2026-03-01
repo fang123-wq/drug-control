@@ -52,6 +52,13 @@
 - 选择分支与不同结局反馈
 - 结局积分奖励与本地记录联动
 
+<table>
+  <tr>
+    <td><img src="docs/images/story-engine-1.png" width="420" alt="沉浸式故事引擎界面 1" /></td>
+    <td><img src="docs/images/story-engine-2.png" width="420" alt="沉浸式故事引擎界面 2" /></td>
+  </tr>
+</table>
+
 ### 禁毒答题系统
 - 内置题库，支持多模式答题
 - 实时判题与解析展示
