@@ -90,10 +90,6 @@
 
 <table>
   <tr>
-    <td><img src="docs/images/feature-museum.png" width="420" alt="云展馆界面" /></td>
-    <td><img src="docs/images/feature-experience.png" width="420" alt="互动体验界面" /></td>
-  </tr>
-  <tr>
     <td><img src="docs/images/feature-quiz.png" width="420" alt="答题界面" /></td>
     <td><img src="docs/images/feature-vr-audio.png" width="420" alt="VR语音界面" /></td>
   </tr>
