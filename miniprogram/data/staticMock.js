@@ -1,4 +1,4 @@
-var BASE_IMAGE = 'https://oss.bjgjlc.com/drug-education';
+var BASE_IMAGE = '';
 
 var appConfig = {
   name: '都昌禁毒云展馆',

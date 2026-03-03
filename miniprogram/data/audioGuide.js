@@ -10,7 +10,7 @@ var audioGuide = {
         zoneId: "zone1",
         number: "01",
         title: "序厅 - 欢迎导言",
-        src: "https://oss.bjgjlc.com/drug-education/audio-guide/01.mp3",
+        src: "/audio-guide/01.mp3",
         duration: 90,
         transcript: `欢迎来到都昌县禁毒教育云展馆！我是您的讲解员，很高兴在这个特别的时刻，与您共同开启一段守护生命、守护未来的旅程。
 
@@ -26,14 +26,14 @@ var audioGuide = {
             `新型毒品常伪装成"邮票""跳跳糖"等`,
             "防范毒品需从认知和心理双重入手"
         ],
-        coverImage: "https://oss.bjgjlc.com/drug-education/vr/VR1.jpg"
+        coverImage: "/vr/VR1.jpg"
     },
     {
         id: "zone2",
         zoneId: "zone2",
         number: "02",
         title: "认识毒品 - 毒品科普",
-        src: "https://oss.bjgjlc.com/drug-education/audio-guide/02.mp3",
+        src: "/audio-guide/02.mp3",
         duration: 92,
         transcript: `各位参观者，大家好！欢迎来到"认识毒品——毒品科普"展区。在这里，我们不讲大道理，只带您看清毒品的真实面目。
 
@@ -51,14 +51,14 @@ var audioGuide = {
             "冰毒、摇头丸、K粉、麻古危害各不相同但均致命",
             "没有安全剂量，一次尝试也可能毁掉一生"
         ],
-        coverImage: "https://oss.bjgjlc.com/drug-education/vr/VR2.jpg"
+        coverImage: "/vr/VR2.jpg"
     },
     {
         id: "zone3",
         zoneId: "zone3",
         number: "03",
         title: "危害警示 - 危害展示",
-        src: "https://oss.bjgjlc.com/drug-education/audio-guide/03.mp3",
+        src: "/audio-guide/03.mp3",
         duration: 104,
         transcript: `各位参观者，大家好！欢迎来到"危害警示——危害展示"展区。此刻，您眼前看到的，不是电影里的特效，也不是遥远的故事，而是真实发生在我们身边的生命警钟。
 
@@ -74,14 +74,14 @@ var audioGuide = {
             "六成以上吸毒家庭因毒而破裂",
             "一次沾染即可能终身难以戒断"
         ],
-        coverImage: "https://oss.bjgjlc.com/drug-education/vr/VR3.jpg"
+        coverImage: "/vr/VR3.jpg"
     },
     {
         id: "zone4",
         zoneId: "zone4",
         number: "04",
         title: "防范拒绝 - 防毒技巧",
-        src: "https://oss.bjgjlc.com/drug-education/audio-guide/04.mp3",
+        src: "/audio-guide/04.mp3",
         duration: 104,
         transcript: `大家好，欢迎来到"防范拒绝——防毒技巧"展区。这里没有冰冷的说教，只有实用、管用、马上能用的自我保护锦囊。你知道吗？全国近年破获的吸毒案件中，超过65%的首次吸毒行为，都发生在酒吧、夜店、KTV或网吧这些看似平常的娱乐场所。而诱骗者最常说的一句话，就是那句轻飘飘却致命的："就试一次，没事的！"——可现实是，冰毒、摇头丸等合成毒品，一次使用就可能引发急性精神障碍，甚至猝死；海洛因类毒品，3到5次就可能形成强烈生理依赖。
 
@@ -97,14 +97,14 @@ var audioGuide = {
             "拒绝三动作：坚定说不、借口离开、立即求助",
             "拒绝毒品是勇敢而温柔的自我保护"
         ],
-        coverImage: "https://oss.bjgjlc.com/drug-education/vr/VR4.jpg"
+        coverImage: "/vr/VR4.jpg"
     },
     {
         id: "zone5",
         zoneId: "zone5",
         number: "05",
         title: "法律法规 - 法制教育",
-        src: "https://oss.bjgjlc.com/drug-education/audio-guide/05.mp3",
+        src: "/audio-guide/05.mp3",
         duration: 83,
         transcript: `各位朋友，欢迎来到"法律法规——法制教育"展区。站在这里，我们不仅要了解法律条文，更要感受法律背后那份沉甸甸的守护。
 
@@ -122,14 +122,14 @@ var audioGuide = {
             "吸食毒品不构成犯罪但须强制戒毒",
             "吸毒记录影响就业升学出行等终身权益"
         ],
-        coverImage: "https://oss.bjgjlc.com/drug-education/vr/VR5.jpg"
+        coverImage: "/vr/VR5.jpg"
     },
     {
         id: "zone6",
         zoneId: "zone6",
         number: "06",
         title: "戒毒康复 - 戒毒知识",
-        src: "https://oss.bjgjlc.com/drug-education/audio-guide/06.mp3",
+        src: "/audio-guide/06.mp3",
         duration: 103,
         transcript: `各位参观者朋友，大家好！欢迎来到"戒毒康复——戒毒知识"展区。这里没有冰冷的说教，只有真实的希望与温暖的陪伴。
 
@@ -147,14 +147,14 @@ var audioGuide = {
             "强制隔离戒毒重在挽救而非惩罚",
             "求助是勇敢行为，专业支持随时在线"
         ],
-        coverImage: "https://oss.bjgjlc.com/drug-education/vr/VR6.jpg"
+        coverImage: "/vr/VR6.jpg"
     },
     {
         id: "zone7",
         zoneId: "zone7",
         number: "07",
         title: "英雄致敬 - 缉毒英雄",
-        src: "https://oss.bjgjlc.com/drug-education/audio-guide/07.mp3",
+        src: "/audio-guide/07.mp3",
         duration: 115,
         transcript: `各位参观者，大家好！欢迎来到"英雄致敬——缉毒英雄"展区。此刻，我们站在的不仅是一处展陈空间，更是一条用热血与忠诚铺就的精神长廊。
 
@@ -172,14 +172,14 @@ var audioGuide = {
             "缉毒英雄平均牺牲年龄仅36岁",
             `"我在，毒不进"是庄严承诺`
         ],
-        coverImage: "https://oss.bjgjlc.com/drug-education/vr/VR7.jpg"
+        coverImage: "/vr/VR7.jpg"
     },
     {
         id: "zone8",
         zoneId: "zone8",
         number: "08",
         title: "承诺签名 - 互动参与",
-        src: "https://oss.bjgjlc.com/drug-education/audio-guide/08.mp3",
+        src: "/audio-guide/08.mp3",
         duration: 89,
         transcript: `各位朋友，欢迎来到"承诺签名——互动参与"展区。这里不仅是展馆的终点，更是一段全新旅程的起点。我们每个人都可以在这里，用一个签名，许下一份庄严的承诺：珍爱生命，远离毒品，参与禁毒，守护家园。
 
@@ -195,7 +195,7 @@ var audioGuide = {
             "全民参与，共建无毒社会",
             "科技助力，共绘无毒未来"
         ],
-        coverImage: "https://oss.bjgjlc.com/drug-education/vr/VR8.jpg"
+        coverImage: "/vr/VR8.jpg"
     }
 ]
 };

@@ -1,4 +1,4 @@
-const BASE_URL = 'https://oss.bjgjlc.com/drug-education/image-browse/'
+const BASE_URL = '/image-browse/'
 
 const imageList = [
   { id: 1, url: BASE_URL + 'image-browse-01.jpg' },

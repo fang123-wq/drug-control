@@ -6,7 +6,7 @@
 var appConfig = require('../config/app.js');
 
 function getVideoUrl(filename) {
-  var baseUrl = appConfig.imageBaseUrl || 'https://oss.bjgjlc.com/drug-education';
+  var baseUrl = appConfig.imageBaseUrl || '';
   return baseUrl + '/story-workplace/videos/' + filename;
 }
 

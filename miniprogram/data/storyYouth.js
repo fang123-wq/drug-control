@@ -7,19 +7,19 @@ var appConfig = require('../config/app.js');
 
 // 获取图片URL的辅助函数
 function getImageUrl(filename) {
-  var baseUrl = appConfig.imageBaseUrl || 'https://oss.bjgjlc.com/drug-education';
+  var baseUrl = appConfig.imageBaseUrl || '';
   return baseUrl + '/story-youth/' + filename;
 }
 
 // 获取音频URL的辅助函数
 function getAudioUrl(filename) {
-  var baseUrl = appConfig.imageBaseUrl || 'https://oss.bjgjlc.com/drug-education';
+  var baseUrl = appConfig.imageBaseUrl || '';
   return baseUrl + '/story-youth/audio/' + filename;
 }
 
 // 获取视频URL的辅助函数
 function getVideoUrl(filename) {
-  var baseUrl = appConfig.imageBaseUrl || 'https://oss.bjgjlc.com/drug-education';
+  var baseUrl = appConfig.imageBaseUrl || '';
   return baseUrl + '/story-youth/videos/' + filename;
 }
 

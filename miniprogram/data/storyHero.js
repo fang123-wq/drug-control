@@ -7,13 +7,13 @@ var appConfig = require('../config/app.js');
 
 // 获取图片URL的辅助函数
 function getImageUrl(filename) {
-  var baseUrl = appConfig.imageBaseUrl || 'https://oss.bjgjlc.com/drug-education';
+  var baseUrl = appConfig.imageBaseUrl || '';
   return baseUrl + '/story-hero/' + filename;
 }
 
 // 获取语音URL的辅助函数
 function getAudioUrl(sceneId, type, index, character) {
-  var baseUrl = appConfig.imageBaseUrl || 'https://oss.bjgjlc.com/drug-education';
+  var baseUrl = appConfig.imageBaseUrl || '';
   if (type === 'narration') {
     return baseUrl + '/story-hero/audio/' + sceneId + '/narration.mp3';
   } else if (type === 'dialogue') {

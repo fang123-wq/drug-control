@@ -1,4 +1,4 @@
-﻿// pages/claw/claw.js - 绂佹瘨椋炶溅鍐插埡
+// pages/claw/claw.js - 绂佹瘨椋炶溅鍐插埡
 var clawConfig = require('../../data/clawConfig.js');
 var storageUtil = require('../../utils/storage.js');
 var api = require('../../utils/api.js');
@@ -22,7 +22,7 @@ var FLAME_COUNT = 6;
 var STAR_POINTS = 10;
 var JOURNEY_COMPLETE_POINTS = 30;
 var DISTANCE_POINTS_RATIO = 0.2;
-var OSS_AUDIO_BASE = 'https://oss.bjgjlc.com/drug-education/claw/audio/';
+var OSS_AUDIO_BASE = '/claw/audio/';
 var OBSTACLE_PRODUCTS = [
   { name: '\u6447\u5934\u4e38', style: 'pill' },
   { name: '\u6d77\u6d1b\u56e0', style: 'syringe' },
