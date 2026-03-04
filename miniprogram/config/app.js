@@ -4,7 +4,7 @@
  */
 
 // Current mini program AppID.
-const APP_ID = 'wx0d1aac1dd838a649';
+const APP_ID = '';
 
 // Environment switch:
 // - development: local mock mode
