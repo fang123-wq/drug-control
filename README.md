@@ -219,9 +219,8 @@ node --check miniprogram/utils/api.js
   <sub>交流群（问题讨论 / 反馈建议）</sub> &nbsp;|&nbsp;
   <sub>官方微信（授权咨询 / 商务合作）</sub> &nbsp;|&nbsp;
   <sub>王仲尼（江西 九江）</sub>
+  
 </p>
-
-> 请将你提供的二维码图片保存为 `docs/images/contact-wangzhongni.png`。
 
 ---
 
