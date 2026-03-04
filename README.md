@@ -212,4 +212,4 @@ node --check miniprogram/utils/api.js
 
 ---
 
-<p align="center">Made with care for anti-drug education.</p>
+<p align="center">精心制作，助力禁毒教育。</p>
