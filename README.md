@@ -209,7 +209,7 @@ node --check miniprogram/utils/api.js
 
 <img src="docs/images/contact-group.png" width="200" alt="交流群二维码（占位）" />
 <img src="docs/images/contact-wechat.png" width="200" alt="微信联系二维码（占位）" />
-![c2c06cfda81667d4ea528a7ba01fc6f0](https://github.com/user-attachments/assets/dc520e5b-8b7b-4bb6-b8a8-d49b8d14e0ad)
+<img width="1083" height="1464" alt="contact-wangzhongni" src="https://github.com/user-attachments/assets/b2b432ab-268f-47f7-90f6-284da40143f3" />
 
 ---
 
